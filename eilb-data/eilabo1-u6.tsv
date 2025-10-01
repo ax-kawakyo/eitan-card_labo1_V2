@@ -1,0 +1,110 @@
+通し番号	章	章内の通番	英単語	品詞	訳
+99	U6	1	cheer	動	元気づける、元気づく
+100	U6	2	grandmother	名	祖母
+101	U6	3	grandma	名	おばあちゃん
+102	U6	4	grandfather	名	祖父
+103	U6	5	grandpa	名	おじいちゃん
+104	U6	6	parent	名	親
+105	U6	7	mother	名	母親
+106	U6	8	mom	名	お母さん
+107	U6	9	father	名	父親
+108	U6	10	dad	名	お父さん
+109	U6	11	aunt	名	おば
+110	U6	12	uncle	名	おじ
+111	U6	13	child	名	子
+112	U6	14	children	■	childの複数形
+113	U6	15	sister	名	姉, 妹
+114	U6	16	brother	名	兄, 弟
+115	U6	17	cousin	名	いとこ
+116	U6	18	Cheer up.	句	元気を出して。
+117	U6	19	active	形	活発な
+118	U6	20	has	■	haveの3人称単数現在形
+119	U6	21	lot	名	ひとまとまり、たくさん
+120	U6	22	give	動	与える、屈する
+121	U6	23	quiet	形	静かな
+122	U6	24	a lot of ~	句	たくさんの〜
+123	U6	25	give up	句	あきらめる
+124	U6	26	these days	句	このごろ、最近
+125	U6	27	cook	動	<加熱して>料理する
+126	U6	28	breakfast	名	朝食
+127	U6	29	omelet	名	オムレツ
+128	U6	30	almost	副	ほとんど、もう少しで
+129	U6	31	Christmas	名	クリスマス
+130	U6	32	bicycle	名	自転車
+131	U6	33	dear	間	おや、まあ
+132	U6	34	does	助	doの3人称単数現在形
+133	U6	35	cold	名	風邪
+134	U6	36	all right	句	よろしい
+135	U6	37	in bed	句	寝ている
+136	U6	38	Oh dear.	句	おやまあ。
+137	U6	39	have a cold	句	風邪をひいている
+138	U6	40	doesn't	短	does not の短縮形
+139	U6	41	work	動	働く、取り組む、機能する
+140	U6	42	Puerto Rico	名	プエルトリコ
+141	U6	43	France	名	フランス
+142	U6	44	China	名	中国
+143	U6	45	train	名	電車
+144	U6	46	station	名	駅
+145	U6	47	I don't know.	句	わかりません。
+146	U6	48	sleep	動	眠る
+147	U6	49	either	副	<否定文で>…もまた
+148	U6	50	worry	動	心配する
+149	U6	51	bit	名	少量
+150	U6	52	need	動	必要とする
+151	U6	53	rest	名	休息, 休憩
+152	U6	54	a lot	句	たくさん
+153	U6	55	go to school	句	学校に行く
+154	U6	56	… not ~ either	句	…もまた〜しない
+155	U6	57	a little bit	句	ほんの少し
+156	U6	58	set	動	<機器や場所などを>設定する
+157	U6	59	table	名	テーブル
+158	U6	60	out	副	外へ
+159	U6	61	garbage	名	生ごみ
+160	U6	62	wash	動	洗う
+161	U6	63	at home	句	家で[に]
+162	U6	64	take out ~	句	〜を外に出す
+163	U6	65	text	動	文字メッセージを送る
+164	U6	66	respect	動	尊敬する
+165	U6	67	effort	名	努力
+166	U6	68	help	動	助ける、手伝う
+167	U6	69	take a lesson	句	授業を受ける
+168	U6	70	work hard	句	一生懸命に取り組む
+169	DL3	1	No. = number	名	<名詞の前に置いて>〜番
+170	DL3	2	excuse	動	許す
+171	DL3	3	tourist	名	観光客
+172	DL3	4	bus	名	バス
+173	DL3	5	let	動	〜させる
+174	DL3	6	o'clock	副	〜時
+175	DL3	7	so	接	それで、だから
+176	DL3	8	welcome	形	歓迎されて
+177	DL3	9	trip	名	旅行
+178	DL3	10	bye	間	ではまた、じゃあね
+179	DL3	11	Excuse me.	句	<声をかけるときに>すみません。
+180	DL3	12	What time ~?	句	何時に〜ですか。
+181	DL3	13	Let me see.	句	ええっと。
+182	DL3	14	You're welcome.	句	どういたしまして。
+183	DL3	15	Have a nice trip!	句	よい旅を。
+184	DL4	1	museum	名	博物館
+185	DL4	2	foot	名	足
+186	DL4	3	straight	副	まっすぐに
+187	DL4	4	along	前	〜に沿って
+188	DL4	5	street	名	通り
+189	DL4	6	corner	名	角, 隅
+190	DL4	7	left	名	左
+191	DL4	8	long	形	長い
+192	DL4	9	on foot	句	徒歩で
+193	DL4	10	get to ~	句	〜に着く
+194	DL4	11	How ~?	句	どのように〜ですか。
+195	DL4	12	How long does it take ~?	句	〜にどれくらいかかりますか。
+196	DL4	13	It takes ~.	句	〜かかります。
+197	YCDI2	1	special	形	特別な
+198	YCDI2	2	guest	名	おもてなしを受ける人、招待客
+199	YCDI2	3	today	副	今日
+200	YCDI2	4	comedian	名	お笑い芸人
+201	YCDI2	5	appear	動	現れる
+202	YCDI2	6	as	前	〜として
+203	YCDI2	7	fashion	名	<服装などの>流行
+204	YCDI2	8	model	名	模範
+205	YCDI2	9	confident	形	自信を持った
+206	YCDI2	10	talk	動	話す
+207	YCDI2	11	studio	名	撮影所, 録音所
